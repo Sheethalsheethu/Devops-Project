@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: yourdockerhubusername/devops-backend:1.0
+        image: sheethalr12/devops-backend:1.0  # <-- Correct image name
         ports:
         - containerPort: 3000
 ---
