@@ -4,22 +4,22 @@
 The DevOps  project  that simulates a typical DevOps workflow by integrating various tools for containerization, continuous integration (CI), continuous deployment (CD), and Kubernetes orchestration. The project is fully Dockerized, ensuring portability and ease of deployment across different environments.
 
 # Tools Used #
-**Version Control:** Git + GitHub – For source code tracking and collaboration.
-**CI/CD Pipeline:** Jenkins – To automate the build, test, and deployment processes.
-**Containerization:** Docker – For packaging the backend into portable containers.
-**Container Orchestration:** Kubernetes (Minikube) – To manage and scale containers locally.
-**Code Quality**: SonarQube – For static code analysis to ensure code quality.
-**Node.js** – The core backend application, running on port 3000.
+- **Version Control:** Git + GitHub – For source code tracking and collaboration.
+- **CI/CD Pipeline:** Jenkins – To automate the build, test, and deployment processes.
+- **Containerization:** Docker – For packaging the backend into portable containers.
+- **Container Orchestration:** Kubernetes (Minikube) – To manage and scale containers locally.
+- **Code Quality**: SonarQube – For static code analysis to ensure code quality.
+- **Node.js** – The core backend application, running on port 3000.
 
 
 How to Run the Project (After Downloading)
 # Prerequisites #
 Make sure the following tools are installed:
 
-Docker: Install Docker
-Minikube: Install Minikube
-Kubectl: Install Kubectl
-Git: Install Git
+- Docker: Install Docker
+- Minikube: Install Minikube
+- Kubectl: Install Kubectl
+- Git: Install Git
 
 # 🛠️ Step 1: Clone the Repository #
 
