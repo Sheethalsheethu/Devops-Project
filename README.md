@@ -77,3 +77,27 @@ Make sure the following tools are installed:
 - kubectl delete -f k8s-deployment.yml
 - minikube stop
 
+
+# Jenkins #
+![Screenshot 2025-03-06 015652](https://github.com/user-attachments/assets/70ee34fe-4d1b-420f-9bd5-ee3197ef2fea)
+
+![Screenshot 2025-03-06 015634](https://github.com/user-attachments/assets/6ffa7509-cfa1-442b-90c6-59f1ae84fac4)
+
+# Docker #
+![Screenshot 2025-03-06 023331](https://github.com/user-attachments/assets/38ece7e5-5ca8-4e66-bea6-4213e0af89f6)
+
+![Screenshot 2025-03-06 011128](https://github.com/user-attachments/assets/2c9bd26a-f403-43ff-89a3-bb6c44f07e24)
+
+# Running Minikube #
+![Screenshot 2025-03-06 021149](https://github.com/user-attachments/assets/18424a9c-e018-4ac1-b75d-fb55539f0e47)
+
+![Screenshot 2025-03-06 022521](https://github.com/user-attachments/assets/fb12e353-4c8a-4476-ae9b-6c42cab063ae)
+
+
+
+
+
+
+
+
+
